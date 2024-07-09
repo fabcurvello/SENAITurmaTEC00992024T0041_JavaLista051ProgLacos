@@ -1,6 +1,6 @@
 package lista051;
 
-public class Questao3 {
+public class Questao03 {
 
 	/*
 	 * 3) Desenvolver um programa que apresente os quadrados dos números inteiros de
